@@ -1,0 +1,60 @@
+header{
+    display: block;
+    background-color: #292320;
+}
+header img{
+    margin-right: 1800px;
+    display: inline-block;
+}
+
+.a a{
+    text-decoration: none;
+    border: none;
+    margin: 40px;
+
+}
+
+footer{
+    background-color: #292320;
+    color: white;
+}
+
+*{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+form{
+    margin-top: 90px;
+    margin-bottom: 120px;
+    background-color: rgba(235, 79, 31, 0.636);
+    display: inline-block;
+    border-radius: 10px;
+}
+
+section h2{
+    margin-top: -85px;
+    margin-bottom: 81px;
+    color: white;
+}
+
+article{
+    margin-top: 38px;
+    margin-bottom: -30px;
+}
+
+nav{
+    margin-top: -22px;
+    background-color: rgba(231, 37, 37, 0.805);
+    display: inline-block;
+    border-radius: 8px;
+}
+
+a{
+    color: white;
+}
+
+div{
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}

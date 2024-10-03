@@ -1,0 +1,56 @@
+header{
+    display: block;
+    background-color: #292320;
+}
+header img{
+    margin-right: 1800px;
+    display: inline-block;
+}
+
+.a a{
+    text-decoration: none;
+    border: none;
+    margin: 40px;
+
+}
+
+footer{
+    background-color: #292320;
+    color: white;
+}
+
+*{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section{
+    margin-top: -105px;
+    margin-bottom: 81.5px;
+    color: white;
+}
+
+nav{
+    margin-bottom: 40px;
+    background-color: rgba(231, 37, 37, 0.805);
+    display: inline-block;
+    border-radius: 8px;
+}
+
+#texto{
+    color: black;
+    margin-top: -2px;
+    
+}
+main table{
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 150px;
+    background-color:  rgba(235, 79, 31, 0.636);
+    border-radius: 10px;
+
+}
+
+a{
+    color: white;
+}
